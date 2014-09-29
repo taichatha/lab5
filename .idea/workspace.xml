@@ -26,10 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hello.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="hello.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="6" selection-start="117" selection-end="117" vertical-scroll-proportion="0.27868852" vertical-offset="0" max-vertical-offset="488">
+            <state line="2" column="13" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="another.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/another.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="19" selection-start="45" selection-end="45" vertical-scroll-proportion="0.06967213" vertical-offset="0" max-vertical-offset="488">
               <folding />
             </state>
           </provider>
@@ -67,6 +76,7 @@
       <list>
         <option value="$PROJECT_DIR$/helper.py" />
         <option value="$PROJECT_DIR$/hello.py" />
+        <option value="$PROJECT_DIR$/another.py" />
       </list>
     </option>
   </component>
@@ -387,7 +397,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="6" selection-start="117" selection-end="117" vertical-scroll-proportion="0.27868852" vertical-offset="0" max-vertical-offset="488">
+        <state line="2" column="13" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/another.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="19" selection-start="45" selection-end="45" vertical-scroll-proportion="0.06967213" vertical-offset="0" max-vertical-offset="488">
           <folding />
         </state>
       </provider>
