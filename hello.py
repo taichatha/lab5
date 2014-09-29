@@ -5,7 +5,7 @@ def greeting(message):
     print message
 
 def testGreet():
-    greeting("Hello")
+    greeting("Hola")
 
 if __name__ == "__main__":
     testGreet()
