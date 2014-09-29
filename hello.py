@@ -1,11 +1,9 @@
 __author__ = 'tuc4uw'
 
-
-def greeting(message):
-    print message
+import helper
 
 def testGreet():
-    greeting("Hola")
+    helper.greeting("Hola")
 
 if __name__ == "__main__":
     testGreet()
